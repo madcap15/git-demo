@@ -17,4 +17,4 @@ sed -i "s/^/$link_repodata/" repodata/url
 echo "==============="
 wget -i url
 wget -i repodata/url
-echo "=============="
+echo "==============="
